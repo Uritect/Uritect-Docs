@@ -31,6 +31,15 @@ Uritect is based at the University of Toronto's Schwartz Reisman Innovation Camp
 - **Build** with the professionals on Archibi Find Pro, or let Brightment's own crew install your basement window.
 - **Look after yourself while you work** with Blink20.
 
+## Documents
+
+| Document | Formats |
+|---|---|
+| Uritect Product Guide | [PDF](documents/Uritect%20Product%20Guide.pdf) · [Word](documents/Uritect%20Product%20Guide.docx) |
+| Uritect Investor Deck | [PDF](documents/Uritect%20Investor%20Deck.pdf) · [PowerPoint](documents/Uritect%20Investor%20Deck.pptx) |
+| Uritect Investor Q&A | [PDF](documents/Uritect%20Investor%20Q%26A.pdf) · [Word](documents/Uritect%20Investor%20Q%26A.docx) |
+| Uritect Juvo Ventures Q&A | [PDF](documents/Uritect%20Juvo%20Ventures%20Q%26A.pdf) · [Word](documents/Uritect%20Juvo%20Ventures%20Q%26A.docx) |
+
 ## Contact
 
 **Uritect Inc.**
